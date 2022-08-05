@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<purchases>
+    <product id="1011">
+        <name>phone</name>
+		<price currency="USD">1000</price>
+		<quantity>10</quantity>
+    </product>
+	<product id="1022">
+        <name>watch</name>
+		<price currency="USD">500</price>
+		<quantity>15</quantity>
+    </product>
+	<product id="1033">
+        <name>laptop</name>
+		<price currency="USD">2000</price>
+		<quantity>5</quantity>
+    </product>
+</purchases>
